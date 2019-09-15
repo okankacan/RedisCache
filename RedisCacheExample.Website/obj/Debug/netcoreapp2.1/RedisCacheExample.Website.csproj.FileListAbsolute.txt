@@ -1,0 +1,6 @@
+C:\Users\lenovo\source\repos\RedisCacheExample\RedisCacheExample.Website\obj\Debug\netcoreapp2.1\RedisCacheExample.Website.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\RedisCacheExample\RedisCacheExample.Website\obj\Debug\netcoreapp2.1\RedisCacheExample.Website.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\RedisCacheExample\RedisCacheExample.Website\obj\Debug\netcoreapp2.1\RedisCacheExample.Website.RazorAssemblyInfo.cache
+C:\Users\lenovo\source\repos\RedisCacheExample\RedisCacheExample.Website\obj\Debug\netcoreapp2.1\RedisCacheExample.Website.RazorAssemblyInfo.cs
+C:\Users\lenovo\source\repos\RedisCacheExample\RedisCacheExample.Website\obj\Debug\netcoreapp2.1\RedisCacheExample.Website.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\RedisCacheExample\RedisCacheExample.Website\obj\Debug\netcoreapp2.1\RedisCacheExample.Website.AssemblyInfo.cs

@@ -1,0 +1,33 @@
+Redis Cache Nedir
+ 
+In-Memory Cache bildiğiniz gibi o andaki sunucuda bellekte tutulmaktadır. Redis Cache ise dağıtık olarak sistemde kullanılır. Bir sunucu down olduğunda diğer sunucudaki sistemimiz bu cache sisteminden yararlanır. In-Memory Cache göre daha Distributed cache projelerimizde daha performanslı bir şekilde çalışmaktadır.
+ Redis Cache https://github.com/microsoftarchive/redis/releases adresinden indirebilirsiniz. redis-server.exe çalıştıralım. Default olarak 6379 port'unu hizmete almaktadır. Redis projemize eklememiz için nuget 'den ServiceStack ve Nuget üzerinden “Microsoft.Extensions.Caching.Redis.Core” paketini yükleyelim. dahil etmemiz gerekli. Daha Sonra startup da 
+
+     services.AddDistributedRedisCache(option=>{
+                    option.Configuration="localhost:6379";
+                    option.InstanceName="master";                    
+            });
+
+eklememiz gerekiyor. 
+
+  _distributedCache.Remove(cacheKey); key deki cache temizleniyor.
+_distributedCache.Set(cacheKey, dataByte); byte türündeki belirtiğimiz key cache setleniyor.
+_distributedCache.Get(cacheKey); daha önbceden belirtiğimiz keydeki cachlenmiş verimiz geliyor.
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+

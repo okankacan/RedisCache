@@ -1,0 +1,14 @@
+C:\Users\lenovo\source\repos\RedisCacheExample\RedisCacheExample.Business\bin\Debug\netcoreapp2.2\RedisCacheExample.Business.deps.json
+C:\Users\lenovo\source\repos\RedisCacheExample\RedisCacheExample.Business\bin\Debug\netcoreapp2.2\RedisCacheExample.Business.runtimeconfig.json
+C:\Users\lenovo\source\repos\RedisCacheExample\RedisCacheExample.Business\bin\Debug\netcoreapp2.2\RedisCacheExample.Business.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\RedisCacheExample\RedisCacheExample.Business\bin\Debug\netcoreapp2.2\RedisCacheExample.Business.dll
+C:\Users\lenovo\source\repos\RedisCacheExample\RedisCacheExample.Business\bin\Debug\netcoreapp2.2\RedisCacheExample.Business.pdb
+C:\Users\lenovo\source\repos\RedisCacheExample\RedisCacheExample.Business\obj\Debug\netcoreapp2.2\RedisCacheExample.Business.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\RedisCacheExample\RedisCacheExample.Business\obj\Debug\netcoreapp2.2\RedisCacheExample.Business.RazorAssemblyInfo.cache
+C:\Users\lenovo\source\repos\RedisCacheExample\RedisCacheExample.Business\obj\Debug\netcoreapp2.2\RedisCacheExample.Business.RazorAssemblyInfo.cs
+C:\Users\lenovo\source\repos\RedisCacheExample\RedisCacheExample.Business\obj\Debug\netcoreapp2.2\RedisCacheExample.Business.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\RedisCacheExample\RedisCacheExample.Business\obj\Debug\netcoreapp2.2\RedisCacheExample.Business.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\RedisCacheExample\RedisCacheExample.Business\obj\Debug\netcoreapp2.2\RedisCacheExample.Business.RazorTargetAssemblyInfo.cache
+C:\Users\lenovo\source\repos\RedisCacheExample\RedisCacheExample.Business\obj\Debug\netcoreapp2.2\RedisCacheExample.Business.dll
+C:\Users\lenovo\source\repos\RedisCacheExample\RedisCacheExample.Business\obj\Debug\netcoreapp2.2\RedisCacheExample.Business.pdb
+C:\Users\lenovo\source\repos\RedisCacheExample\RedisCacheExample.Business\obj\Debug\netcoreapp2.2\RedisCacheExample.Business.csprojAssemblyReference.cache
